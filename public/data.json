@@ -1,0 +1,37 @@
+[
+  {
+    "pincode": "110043",
+    "product": "lo foods",
+    "results": [
+      {
+        "productName": "Lo! Foods Keto Almond Cookies (Sugar Free Biscuits)",
+        "price": "\u20b9199",
+        "originalPrice": "\u20b9219",
+        "weight": "100 g",
+        "stockStatus": "In Stock"
+      }
+    ],
+    "location": "Baprola, Mumbai, DELHI"
+  },
+  {
+    "pincode": "110044",
+    "product": "lo foods",
+    "results": [],
+    "status": "Blinkit is not available",
+    "location": "Badarpur (South Delhi), Mumbai, DELHI"
+  },
+  {
+    "pincode": "110045",
+    "product": "lo foods",
+    "results": [
+      {
+        "productName": "Lo! Foods Keto Almond Cookies (Sugar Free Biscuits)",
+        "price": "\u20b9199",
+        "originalPrice": "\u20b9219",
+        "weight": "100 g",
+        "stockStatus": "In Stock"
+      }
+    ],
+    "location": "Dabri, Bengaluru, DELHI"
+  }
+]
